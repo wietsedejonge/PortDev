@@ -1,0 +1,15 @@
+C:\Users\Wietse\source\repos\PortDev\PortDev\bin\Debug\PortDev.exe.config
+C:\Users\Wietse\source\repos\PortDev\PortDev\bin\Debug\PortDev.exe
+C:\Users\Wietse\source\repos\PortDev\PortDev\bin\Debug\PortDev.pdb
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.csprojAssemblyReference.cache
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\MainWindow.g.cs
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\App.g.cs
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev_MarkupCompile.cache
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev_MarkupCompile.lref
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\MainWindow.baml
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.g.resources
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.Properties.Resources.resources
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.csproj.GenerateResource.cache
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.csproj.CoreCompileInputs.cache
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.exe
+C:\Users\Wietse\source\repos\PortDev\PortDev\obj\Debug\PortDev.pdb
