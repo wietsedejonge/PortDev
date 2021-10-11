@@ -97,5 +97,8 @@
   <ItemGroup>
     <Resource Include="Assets\icons8-menu-24.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\icons8-delete-24.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
