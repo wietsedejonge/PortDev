@@ -108,5 +108,14 @@
     <Resource Include="Assets\img_setting.png" />
     <Resource Include="Assets\img_signout.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\michigandah2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\icons8-shutdown-30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\icons8-shutdown-30%281%29.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
