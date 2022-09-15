@@ -55,7 +55,7 @@ namespace PortDev
 
         private void Tg_Btn_Checked(object sender, RoutedEventArgs e)
         {
-            img_bg.Opacity = 0.3;
+            img_bg.Opacity = 0.2;
         }
 
         private void BG_PreviewMouseLeftButtonDown(object sender, MouseButtonEventArgs e)
